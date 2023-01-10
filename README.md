@@ -1,2 +1,2 @@
 # Interesting-Polynomial-Identities
-Exploring Polynomial Identities to Factor Mersenne Numbers
+Exploring Polynomial Identities Related To Mersenne Numbers
